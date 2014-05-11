@@ -1,6 +1,6 @@
 co-express-router
 =================
-```co-express-router``` patches [express routers](https://github.com/visionmedia/express) to make them accept control flow-based generators as middleware, using [co](https://github.com/visionmedia/co).
+```co-express-router``` patches [express routers](https://github.com/visionmedia/express) to make them accept generator-based flow-control as middleware, using [co](https://github.com/visionmedia/co).
 
 
 ## Installing
