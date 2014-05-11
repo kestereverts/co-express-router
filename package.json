@@ -1,14 +1,14 @@
 {
   "name": "co-express-router",
-  "version": "0.0.0",
-  "description": "Use generators as middleware in Express.",
+  "version": "0.0.1",
+  "description": "Use generator-based flow-control as middleware in Express.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kestereverts/co-express-router.git"
+    "url": "https://github.com/kestereverts/co-express-router.git"
   },
   "author": "Kester Everts",
   "license": "MIT",
@@ -17,7 +17,17 @@
   },
   "homepage": "https://github.com/kestereverts/co-express-router",
   "dependencies": {
-    "co": "~3.0.5",
+    "co": "~3.0.6",
     "methods": "~0.1.0"
-  }
+  },
+  "devDependencies": {},
+  "keywords": [
+    "async",
+    "flow",
+    "generator",
+    "coro",
+    "coroutine"
+    "express",
+    "co"
+  ]
 }
